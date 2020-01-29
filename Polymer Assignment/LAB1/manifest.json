@@ -1,0 +1,7 @@
+{
+  "name": "my-first-application",
+  "short_name": "my-first-application",
+  "description": "my first application after element project",
+  "start_url": "/",
+  "display": "standalone"
+}
